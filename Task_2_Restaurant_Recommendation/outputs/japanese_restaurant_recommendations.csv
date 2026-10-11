@@ -1,0 +1,4 @@
+Restaurant Name,Cuisines,City,Price range,Aggregate rating,Has Online delivery,Has Table booking,Similarity Score
+Marukame Udon,Japanese,Rest of Hawaii,1,4.9,No,No,1.0
+Miyabi 9,"Japanese, Sushi",Des Moines,2,4.8,No,No,0.6690671846798925
+Kobe Hibachi & Sushi,"American, Japanese, Sushi",Dalton,2,4.6,No,No,0.5912347166906081
